@@ -1,0 +1,7 @@
+## Parts Needed
+
+The parts needed to assemble Project Ankaa are listed below:
+
+1. **Arduino Mega 2560** — Other Arduino boards may work, though Project Ankaa was designed around the Mega 2560.
+2. **Arduino Mega Sensor Shield** — Project Ankaa was originally built using the **KEYESTUDIO MEGA Sensor Shield Prototype Board for Arduino MEGA R3 2560**. Other compatible Mega sensor/expansion shields may also work.
+3. **6× 9g Servos** — Each eye module requires two servos (four total), with the remaining two servos used for the jaw.
