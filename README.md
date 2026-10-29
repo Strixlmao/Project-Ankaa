@@ -3,6 +3,9 @@ Project Ankaa is an open-source animatronic I originally created for my senior-y
 You are free to modify it, push changes, overall do whatever just don't sell the thing. The core premise of the project is to make animatronics easily available for the people, not locked behind a paywall. 
 Anyways, with all that crap out of the way, hope you enjoy it!
 
+Everything you need should be listed in a file (INCLUDING THE PARTS LIST)
+
+If you have any questions, feel free to reach out!
 
 ## License
 
